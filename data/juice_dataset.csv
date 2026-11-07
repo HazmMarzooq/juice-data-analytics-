@@ -1,0 +1,666 @@
+product_name,category,pack_size_ml,price,discount_pct,quantity_sold,rating,sugar_g_per_100ml,is_organic,month,region,revenue
+PureSip Mango,Mango,250,16.03,0,208.0,4.7,13.6,No,3,East,3334.24
+GreenLeaf Berry,Berry,250,17.06,10,188.0,4.1,9.4,No,11,North,2886.55
+DailyGlow Grape,Grape,200,12.84,10,160.0,3.8,14.4,Yes,1,West,1848.96
+PureSip Mixed Fruit,Mixed Fruit,1000,47.42,0,215.0,3.4,12.3,No,10,East,10195.3
+FreshSqueeze Apple,Apple,500,,0,160.0,4.6,7.4,Yes,3,North,6414.4
+GreenLeaf Apple,Apple,1000,62.82,0,203.0,3.5,8.4,No,1,North,12752.46
+TropiCo Orange,ORANGE,500,24.84,10,310.0,4.5,8.9,No,9,East,6930.36
+TropiCo Orange,Orange,1000,55.11,0,246.0,4.5,6.9,Yes,1,West,13557.06
+GreenLeaf Apple,apple,250,17.46,15,321.0,4.3,10.5,No,8,West,4763.96
+TropiCo Berry,Berry,250,13.43,0,153.0,3.9,9.8,No,9,North,2054.79
+FreshSqueeze Berry,Berry,250,15.06,0,154.0,3.8,9.0,No,9,West,2319.24
+GreenLeaf Apple,Apple,250,22.06,5,131.0,4.0,6.8,Yes,9,East,2745.37
+FreshSqueeze Apple,Apple,200,11.23,10,301.0,4.1,10.1,No,12,West,3042.21
+PureSip Mango,Mango,250,13.36,0,243.0,4.6,15.0,No,12,South,3246.48
+PureSip Mango,Mango,200,10.61,10,283.0,4.8,13.1,No,3,East,2702.37
+PureSip Orange,Orange,1000,64.63,10,278.0,4.5,7.8,Yes,7,West,16170.43
+TropiCo Apple,Apple,1000,57.6,0,218.0,3.7,8.4,Yes,9,South,12556.8
+TropiCo Orange,Orange,250,15.86,5,285.0,4.2,6.7,Yes,5,West,4294.09
+GreenLeaf Mixed Fruit,Mixed Fruit,500,29.58,0,149.0,4.1,11.8,No,11,East,4407.42
+PureSip Mango,Mango,500,23.15,0,194.0,3.3,14.4,No,10,East,4491.1
+GreenLeaf Orange,Orange,1000,84.34,20,304.0,4.5,5.6,Yes,7,North,20511.49
+PureSip Orange,Orange,200,10.25,0,257.0,,9.4,No,10,South,2634.25
+GreenLeaf Apple,Apple,500,33.09,5,288.0,4.5,10.1,N,1,East,9053.42
+FreshSqueeze Apple,Apple,1000,47.18,15,280.0,3.7,10.7,No,4,South,11228.84
+GreenLeaf Berry,Berry,500,31.31,0,207.0,4.3,9.6,No,5,South,6481.17
+GreenLeaf Mango,Mango,1000,66.83,0,266.0,4.2,14.4,No,5,South,17776.78
+GreenLeaf Mango,Mango,500,31.07,5,277.0,4.3,12.9,No,7,North,8176.07
+DailyGlow Orange, Orange ,1000,56.14,0,288.0,4.2,6.8,Yes,7,North,16168.32
+DailyGlow Mango,Mango,200,12.45,10,237.0,4.4,10.2,Yes,2,East,2655.58
+FreshSqueeze Grape,Grape,200,12.21,0,146.0,3.4,14.9,No,3,East,1782.66
+DailyGlow Berry,Berry,250,11.42,5,246.0,4.4,9.7,No,2,East,2668.85
+PureSip Orange,Orange,1000,51.88,0,-20.0,3.5,9.4,No,6,East,12918.12
+TropiCo Grape,Grape,250,16.98,0,130.0,4.3,12.2,Yes,6,North,2207.4
+PureSip Berry,Berry,500,25.38,0,,,8.3,No,2,East,4136.94
+TropiCo Apple,Apple,1000,232.99999999999997,15,270.0,4.3,7.8,Yes,11,North,14860.12
+PureSip Orange,Orange,250,14.39,0,278.0,4.1,7.7,No,3,North,4000.42
+FreshSqueeze Berry,Berry,1000,53.34,5,326.0,4.0,9.5,No,5,East,16519.4
+PureSip Apple,Apple,500,26.21,20,307.0,4.4,9.8,No,9,West,6437.18
+FreshSqueeze Berry,Berry,250,14.49,5,251.0,4.4,8.8,No,10,North,3455.14
+GreenLeaf Orange,Orange,1000,57.63,5,255.0,3.7,9.8,No,2,East,13960.87
+DailyGlow Apple,Apple,200,8.51,20,289.0,4.3,9.5,No,11,East,1967.51
+FreshSqueeze Apple,Apple,250,16.2,15,258.0,4.0,9.0,No,2,East,3552.66
+PureSip Mango,Mango,200,15.22,20,234.0,4.2,10.2,Yes,6,South,2849.18
+DailyGlow Apple,Apple,500,31.27,15,189.0,4.1,7.9,Yes,10,South,5023.53
+FreshSqueeze Apple,Apple,500,39.03,0,216.0,4.9,7.3,Yes,3,North,8430.48
+FreshSqueeze Apple,Apple,500,26.11,10,239.0,,11.0,No,12,South,5616.26
+PureSip Mango,Mango,200,15.02,0,280.0,5.0,11.8,Yes,12,North,4205.6
+DailyGlow Grape,Grape,500,25.56,0,170.0,3.0,12.8,No,7,West,4345.2
+GreenLeaf Mango,Mango,250,21.99,5,168.0,4.7,11.3,Yes,2,South,3509.6
+TropiCo Grape,Grape,250,11.81,0,251.0,4.0,14.3,No,5,North,2964.31
+GreenLeaf Orange,Orange,250,22.64,0,152.0,5.0,6.8,Yes,11,East,3441.28
+PureSip Mixed Fruit,Mixed Fruit,200,10.6,0,287.0,4.4,,No,6,South,3042.2
+GreenLeaf Pineapple,Pineapple,500,34.47,20,187.0,3.6,10.7,No,2,West,5156.71
+PureSip Berry,Berry,500,29.55,0,221.0,,9.3,No,8,South,
+TropiCo Mango,Mango,500,21.85,10,301.0,4.6,13.6,No,4,West,5919.17
+TropiCo Grape,Grape,500,23.16,0,246.0,4.0,15.2,No,5,East,5697.36
+PureSip Orange,Orange,1000,48.51,0,317.0,3.9,7.0,No,6,East,15377.67
+GreenLeaf Mixed Fruit,Mixed Fruit,1000,81.42,0,129.0,3.6,9.1,Yes,9,North,10503.18
+GreenLeaf Orange,Orange,500,40.89,0,184.0,4.2,6.6,Yes,10,East,7523.76
+GreenLeaf Mixed Fruit,Mixed Fruit,500,42.51,0,270.0,4.6,11.3,Yes,5,South,11477.7
+DailyGlow Mango,Mango,250,11.0,10,222.0,4.4,12.8,No,9,West,2197.8
+TropiCo Apple,Apple,200,13.44,20,297.0,4.4,9.3,Yes,4,North,3193.34
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.24,0,257.0,4.1,10.4,No,1,East,2374.68
+TropiCo Berry,Berry,500,19.58,10,204.0,3.9,8.7,No,1,South,3594.89
+DailyGlow Grape,Grape,500,25.72,15,237.0,3.4,14.6,No,12,South,5181.29
+GreenLeaf Pineapple,Pineapple,500,32.45,0,137.0,3.4,10.7,No,2,South,4445.65
+PureSip Grape,Grape,250,13.95,5,167.0,3.0,14.6,No,8,South,2213.17
+DailyGlow Orange,Orange,200,11.43,10,257.0,4.3,8.7,Yes,1,South,2643.76
+FreshSqueeze Mango,Mango,250,14.13,15,324.0,4.2,13.7,No,6,East,3891.4
+PureSip Apple,Apple,500,27.03,0,221.0,3.7,9.1,No,12,West,5973.63
+GreenLeaf Pineapple,Pineapple,500,30.37,10,175.0,4.0,11.8,No,6,South,4783.28
+PureSip Berry,Berry,500,28.79,15,226.0,4.7,8.0,No,2,West,5530.56
+PureSip Mango,Mango,250,13.39,15,288.0,4.9,12.9,No,8,West,3277.87
+PureSip Mango,Mango,1000,53.9,0,234.0,4.2,12.3,No,8,East,12612.6
+PureSip Berry,Berry,200,10.29,10,246.0,4.3,,No,6,South,2278.21
+DailyGlow Grape,Grape,500,21.07,0,194.0,4.0,,No,3,North,4087.58
+FreshSqueeze Orange,Orange,500,28.82,10,334.0,4.0,8.9,No,8,South,8663.29
+TropiCo Mango,Mango,500,24.42,10,252.0,4.5,14.6,No,4,South,5538.46
+GreenLeaf Orange,Orange,1000,58.09,10,336.0,4.2,9.4,no,6,East,17566.42
+PureSip Berry,Berry,200,10.57,10,140.0,4.5,8.3,No,3,South,1331.82
+TropiCo Apple,Apple,1000,65.83,0,264.0,4.4,7.9,Yes,7,West,
+DailyGlow Apple,Apple,200,10.99,0,213.0,4.0,10.7,Yes,12,South,2340.87
+PureSip Apple,Apple,200,15.12,10,242.0,3.5,,Yes,8,South,3293.14
+FreshSqueeze Grape,Grape,250,14.74,0,181.0,3.6,13.5,No,1,East,2667.94
+FreshSqueeze Apple,Apple,1000,55.79,20,261.0,4.2,9.9,No,2,East,11648.95
+TropiCo Grape,Grape,200,11.95,5,193.0,3.3,13.3,Yes,7,North,2191.03
+PureSip Berry,Berry,500,23.84,0,236.0,3.9,9.1,No,4,South,5626.24
+TropiCo Mango,Mango,1000,56.35,0,196.0,4.5,12.0,Yes,2,North,11044.6
+DailyGlow Mango,Mango,1000,40.77,0,270.0,4.3,12.7,No,8,East,11007.9
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,28.88,10,226.0,4.2,11.9,No,12,West,5874.19
+GreenLeaf Apple,Apple,250,22.06,5,131.0,4.0,6.8,Yes,9,East,2745.37
+PureSip Grape,Grape,250,13.64,10,181.0,3.6,14.3,No,2,East,2221.96
+FreshSqueeze Pineapple,Pineapple,200,18.2,0,160.0,4.4,11.8,Yes,7,South,2912.0
+DailyGlow Apple,Apple,200,9.6,0,354.0,4.2,9.9,No,5,West,3398.4
+FreshSqueeze Mango, Mango ,500,26.93,5,257.0,4.3,10.7,No,2,West,6574.96
+FreshSqueeze Apple,Apple,1000,55.2,10,255.0,3.9,9.0,No,10,West,12668.4
+GreenLeaf Mango,Mango,250,22.8,0,248.0,4.4,10.3,Yes,6,North,5654.4
+GreenLeaf Orange,Orange,500,45.73,10,204.0,4.4,6.1,Yes,9,West,8396.03
+PureSip Berry,Berry,1000,69.75,20,206.0,4.7,8.0,Yes,4,North,11494.8
+GreenLeaf Mixed Fruit,Mixed Fruit,250,16.35,10,325.0,4.1,10.3,No,5,East,4782.38
+DailyGlow Berry,Berry,500,24.09,0,201.0,4.9,7.7,No,7,West,4842.09
+FreshSqueeze Mixed Fruit,Mixed Fruit,200,15.93,5,183.0,3.9,8.8,Yes,7,East,2769.43
+FreshSqueeze Orange,Orange,1000,49.47,10,290.0,4.4,6.2,No,9,North,12911.67
+GreenLeaf Mixed Fruit,Mixed Fruit,200,13.01,0,175.0,3.9,9.6,No,10,South,2276.75
+PureSip Pineapple,Pineapple,500,27.9,10,228.0,3.9,10.2,No,3,South,5725.08
+FreshSqueeze Mango,mango,250,14.28,10,348.0,4.0,14.0,No,6,West,4472.5
+PureSip Mixed Fruit,mixed fruit,250,17.51,0,161.0,4.2,10.2,Yes,10,East,2819.11
+TropiCo Apple,Apple,500,36.54,10,196.0,4.4,7.2,Yes,3,North,6445.66
+DailyGlow Berry,Berry,500,21.06,0,205.0,4.0,9.4,No,1,North,4317.3
+PureSip Orange,Orange,500,38.16,0,243.0,4.6,7.6,Yes,12,West,9272.88
+TropiCo Apple,apple,500,24.77,0,284.0,4.1,8.6,No,10,West,7034.68
+GreenLeaf Orange,Orange,500,29.13,0,253.0,5.0,9.7,No,9,North,7369.89
+FreshSqueeze Grape,Grape,500,32.32,0,147.0,3.4,13.2,No,10,West,4751.04
+GreenLeaf Pineapple,Pineapple,500,32.52,5,,3.9,11.5,No,1,West,5808.07
+PureSip Orange,Orange,250,13.74,15,406.0,4.0,8.7,No,8,West,4741.67
+TropiCo Mango,Mango,250,17.34,20,199.0,4.3,11.4,Yes,7,East,2760.53
+TropiCo Orange,Orange,1000,38.3,5,234.0,3.8,9.2,No,3,South,8514.09
+GreenLeaf Orange,Orange,500,31.1,20,305.0,4.5,8.8,No,1,West,7588.4
+PureSip Pineapple,Pineapple,500,27.15,0,221.0,3.9,12.5,No,11,East,6000.15
+DailyGlow Mango,Mango,200,8.73,0,292.0,4.3,12.7,No,7,West,2549.16
+PureSip Pineapple,Pineapple,500,26.41,5,149.0,3.8,,No,4,South,3738.34
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.1,5,251.0,4.2,12.7,No,3,North,2169.9
+FreshSqueeze Orange,Orange,1000,56.17,0,273.0,4.4,7.3,No,3,South,15334.41
+DailyGlow Pineapple,Pineapple,200,12.27,5,143.0,4.3,9.9,Yes,4,South,1666.88
+TropiCo Pineapple,Pineapple,250,11.1,15,256.0,4.1,12.5,No,2,East,2415.36
+DailyGlow Mango,Mango,500,19.01,5,341.0,4.3,11.6,No,7,North,6158.29
+DailyGlow Apple,Apple,250,12.16,0,284.0,4.1,9.7,No,3,North,3453.44
+PureSip Mixed Fruit,Mixed Fruit,500,23.41,10,245.0,3.5,9.7,No,4,West,5161.9
+DailyGlow Grape,Grape,1000,46.2,0,147.0,2.8,15.4,No,3,South,6791.4
+DailyGlow Berry,Berry,1000,44.01,10,243.0,4.2,7.9,Y,6,West,9624.99
+PureSip Orange,Orange,200,12.31,0,261.0,4.5,9.8,No,9,West,3212.91
+PureSip Orange,Orange,500,26.64,5,257.0,5.0,7.8,No,7,South,6504.16
+FreshSqueeze Berry,Berry,500,28.12,0,213.0,4.0,10.7,No,6,East,5989.56
+PureSip Orange,Orange,250,13.61,10,292.0,9.5,8.3,No,7,South,3576.71
+TropiCo Berry,Berry,1000,59.88,0,149.0,4.4,9.9,Yes,3,North,8922.12
+FreshSqueeze Mango,Mango,500,28.02,20,302.0,4.3,14.6,No,12,West,6769.63
+DailyGlow Pineapple,Pineapple,500,22.66,15,226.0,4.2,11.4,No,4,East,4352.99
+TropiCo Mixed Fruit,Mixed Fruit,500,24.14,0,210.0,3.9,11.5,No,5,North,5069.4
+DailyGlow Apple,Apple,1000,45.07,10,364.0,4.5,9.2,No,7,North,14764.93
+PureSip Apple,Apple,500,27.03,0,221.0,3.7,9.1,No,12,West,5973.63
+GreenLeaf Apple,Apple,200,13.21,0,283.0,4.0,9.7,No,8,South,3738.43
+GreenLeaf Orange,Orange,200,13.27,10,321.0,4.0,7.8,No,5,South,3833.7
+PureSip Orange,Orange,250,14.55,10,303.0,,7.3,No,8,West,3967.79
+FreshSqueeze Mango,Mango,250,232.99999999999997,10,272.0,4.8,10.9,Yes,8,East,4722.19
+PureSip Berry,Berry,500,24.54,15,234.0,4.1,9.5,No,9,West,4881.01
+GreenLeaf Orange,Orange,250,15.38,0,244.0,4.5,8.5,No,3,West,3752.72
+GreenLeaf Orange,Orange,250,15.43,15,292.0,3.8,8.9,No,8,South,3829.73
+GreenLeaf Orange,Orange,200,17.71,5,146.0,4.0,6.2,Yes,3,South,2456.38
+DailyGlow Apple,Apple,250,16.39,0,200.0,4.5,8.3,Yes,12,West,3278.0
+TropiCo Orange,Orange,200,14.06,15,248.0,4.6,6.9,Yes,3,East,2963.85
+TropiCo Grape,Grape,250,12.56,10,218.0,3.7,14.0,No,11,North,2464.27
+DailyGlow Orange,Orange,500,20.65,0,280.0,4.8,9.1,No,9,North,5782.0
+TropiCo Grape,Grape,250,18.4,0,168.0,4.0,12.6,Yes,8,East,3091.2
+TropiCo Apple,Apple,500,24.39,10,270.0,3.7,9.0,No,3,North,5926.77
+TropiCo Mango,Mango,250,11.76,0,225.0,4.1,11.4,No,2,East,2646.0
+DailyGlow Pineapple,Pineapple,500,29.48,5,119.0,3.9,9.0,Yes,12,North,3332.71
+PureSip Pineapple,Pineapple,250,13.92,10,243.0,,12.1,No,4,North,3044.3
+TropiCo Mango,Mango,250,12.95,5,219.0,,13.6,No,1,East,2694.25
+PureSip Orange,Orange,500,26.08,20,307.0,4.2,8.5,No,8,South,6405.25
+TropiCo Apple,Apple,500,232.99999999999997,5,231.0,4.6,8.5,Yes,1,West,7797.06
+FreshSqueeze Apple,Apple,250,20.78,0,191.0,5.0,7.4,Yes,10,North,3968.98
+TropiCo Mixed Fruit,Mixed Fruit,250,16.79,5,218.0,4.3,8.4,Yes,4,West,3477.21
+DailyGlow Orange,Orange,1000,56.83,5,292.0,4.8,5.9,Y,12,South,15764.64
+PureSip Grape,Grape,1000,73.55,10,168.0,3.9,12.7,Yes,4,North,11120.76
+DailyGlow Apple,APPLE,250,11.74,5,319.0,4.7,7.3,No,5,West,3557.81
+GreenLeaf Pineapple,Pineapple,1000,95.41,0,133.0,4.4,9.4,Yes,12,East,12689.53
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.49,5,229.0,3.9,11.4,No,4,South,2064.55
+TropiCo Berry,Berry,500,24.04,5,228.0,5.0,7.9,No,5,South,5207.06
+TropiCo Berry,Berry,250,12.56,20,290.0,4.5,7.0,No,12,South,2913.92
+DailyGlow Orange,Orange,1000,40.98,5,379.0,4.3,8.5,No,7,South,14754.85
+DailyGlow Apple,Apple,250,15.65,0,220.0,4.2,7.7,Yes,10,East,3443.0
+GreenLeaf Mango,Mango,1000,72.19,10,146.0,4.5,10.3,Yes,1,North,9485.77
+FreshSqueeze Mango,Mango,500,39.05,5,240.0,5.0,10.4,Yes,10,South,8903.4
+FreshSqueeze Orange,Orange,500,28.11,10,289.0,4.1,9.2,No,3,East,7311.41
+TropiCo Mango,Mango,500,,0,188.0,3.9,13.3,No,10,East,4416.12
+GreenLeaf Orange,Orange,250,16.45,5,261.0,4.4,8.5,No,2,West,
+PureSip Berry,Berry,250,15.63,0,171.0,4.6,7.7,Yes,11,South,2672.73
+GreenLeaf Berry,Berry,1000,,0,175.0,4.4,7.2,No,2,West,10787.0
+PureSip Grape,Grape,250,13.64,0,180.0,4.2,14.4,No,11,West,2455.2
+DailyGlow Apple,Apple,1000,53.08,10,347.0,4.3,9.9,Yes,7,South,16576.88
+DailyGlow Mixed Fruit,Mixed Fruit,1000,54.1,20,,4.7,9.4,Yes,5,South,13892.88
+FreshSqueeze Apple,Apple,250,14.37,0,302.0,3.9,10.1,No,10,South,4339.74
+TropiCo Mango,Mango,250,13.23,0,261.0,3.8,14.8,No,9,East,3453.03
+FreshSqueeze Apple,Apple,500,38.46,0,277.0,4.1,6.7,Yes,6,North,10653.42
+TropiCo Mango,Mango,1000,43.74,0,275.0,4.4,12.6,No,5,North,12028.5
+FreshSqueeze Apple,Apple,250,15.43,15,199.0,3.8,9.7,No,10,West,2609.98
+TropiCo Apple,Apple,250,10.65,20,278.0,4.3,9.3,No,10,North,2368.56
+GreenLeaf Mixed Fruit,Mixed Fruit,250,17.49,0,161.0,3.8,10.0,No,3,North,2815.89
+GreenLeaf Apple,Apple,1000,55.9,20,321.0,3.3,9.7,No,5,West,14355.12
+DailyGlow Orange,Orange,500,29.98,15,320.0,4.4,6.2,Yes,8,West,8154.56
+PureSip Orange,Orange,500,35.19,0,193.0,4.0,6.6,Yes,5,North,6791.67
+GreenLeaf Apple,Apple,1000,54.39,0,271.0,4.8,10.1,No,10,North,14739.69
+GreenLeaf Mixed Fruit,Mixed Fruit,250,19.72,5,131.0,3.8,9.0,Yes,2,East,2454.15
+FreshSqueeze Berry,Berry,1000,54.87,5,200.0,4.4,9.7,No,3,North,10425.3
+DailyGlow Orange,Orange,500,20.56,5,281.0,4.0,7.9,No,6,West,5488.49
+PureSip Berry,Berry,250,14.03,0,128.0,4.0,7.1,No,3,East,1795.84
+FreshSqueeze Orange,Orange,200,16.69,0,144.0,4.6,7.1,Yes,12,South,2403.36
+FreshSqueeze Grape,Grape,250,20.52,0,122.0,3.4,10.6,Yes,8,West,2503.44
+GreenLeaf Apple,Apple,1000,55.9,20,321.0,3.3,9.7,No,5,West,14355.12
+GreenLeaf Orange,Orange,500,31.65,0,269.0,4.3,9.1,No,1,East,8513.85
+DailyGlow Mango,Mango,1000,40.3,0,229.0,4.4,12.9,No,3,South,9228.7
+FreshSqueeze Orange,Orange,1000,75.5,5,181.0,3.8,,Yes,3,East,12982.22
+DailyGlow Mango,Mango,500,22.77,5,318.0,4.1,13.5,No,5,South,6878.82
+FreshSqueeze Pineapple,Pineapple,250,15.95,0,182.0,3.6,12.4,No,1,South,2902.9
+FreshSqueeze Orange,Orange,250,20.61,5,283.0,4.8,,Yes,10,South,5541.0
+TropiCo Mixed Fruit,Mixed Fruit,1000,58.38,5,216.0,4.4,7.8,Yes,6,North,11979.58
+DailyGlow Orange,Orange,250,11.64,0,233.0,3.7,8.3,No,3,South,2712.12
+PureSip Berry,Berry,250,13.26,0,139.0,3.9,10.6,No,12,East,1843.14
+DailyGlow Mixed Fruit,Mixed Fruit,500,22.24,5,319.0,4.0,10.3,No,5,South,6739.83
+DailyGlow Grape,Grape,250,11.32,0,164.0,3.1,14.9,No,12,West,1856.48
+PureSip Mango,Mango,1000,52.7,5,235.0,3.9,12.3,No,8,South,11765.28
+GreenLeaf Pineapple,Pineapple,250,16.51,10,203.0,3.6,9.8,No,3,East,3016.38
+GreenLeaf Mixed Fruit,Mixed Fruit,200,13.13,0,203.0,4.0,10.5,No,12,East,2665.39
+PureSip Grape,Grape,250,20.02,5,133.0,3.5,13.8,Yes,6,West,2529.53
+TropiCo Pineapple,Pineapple,250,12.95,20,178.0,3.5,11.0,No,12,North,1844.08
+DailyGlow Grape,Grape,500,26.49,10,189.0,4.0,12.6,Yes,11,North,4505.95
+PureSip Orange,Orange,200,15.73,0,213.0,5.0,8.1,Yes,11,East,3350.49
+FreshSqueeze Apple,Apple,500,28.88,5,341.0,4.0,8.3,No,5,West,9355.68
+TropiCo Orange,Orange,500,23.15,5,276.0,4.6,8.3,No,9,South,6069.93
+TropiCo Mango,Mango,250,10.7,10,305.0,4.4,12.2,No,9,West,2937.15
+TropiCo Berry,Berry,500,30.46,0,171.0,4.8,8.6,Yes,1,South,5208.66
+DailyGlow Orange,Orange,250,10.96,0,261.0,4.0,8.6,No,11,South,2860.56
+TropiCo Orange,orange,200,14.04,10,161.0,3.9,6.8,Yes,1,West,2034.4
+FreshSqueeze Mixed Fruit,Mixed Fruit,200,17.43,10,161.0,3.9,9.6,Yes,11,West,2525.61
+PureSip Apple,Apple,250,14.04,0,235.0,4.1,10.2,No,9,North,3299.4
+DailyGlow Berry,Berry,500,23.91,5,201.0,3.9,8.5,No,6,West,4565.61
+PureSip Mixed Fruit,Mixed Fruit,500,27.08,0,285.0,4.3,,No,4,West,7717.8
+TropiCo Berry,Berry,1000,68.07,0,138.0,4.3,7.4,Yes,1,North,9393.66
+GreenLeaf Mixed Fruit,Mixed Fruit,250,15.24,10,182.0,,9.9,No,12,North,2496.31
+GreenLeaf Mixed Fruit,Mixed Fruit,250,22.8,10,159.0,4.5,11.8,Yes,9,East,3262.68
+GreenLeaf Pineapple,Pineapple,1000,,0,231.0,4.4,12.9,No,7,East,14148.75
+FreshSqueeze Orange,Orange,1000,83.42,10,214.0,4.7,6.4,Yes,8,West,16066.69
+FreshSqueeze Orange,Orange,200,11.57,0,338.0,4.4,10.9,No,6,West,3910.66
+GreenLeaf Apple,Apple,1000,64.53,5,205.0,4.4,9.5,No,1,South,12567.22
+PureSip Mango,Mango,200,12.55,5,306.0,3.9,13.4,No,5,East,3648.28
+GreenLeaf Apple,Apple,500,45.34,20,172.0,3.9,8.4,Yes,7,West,6238.78
+GreenLeaf Grape,Grape,200,14.12,15,175.0,3.5,14.1,Y,2,East,2100.35
+TropiCo Berry,Berry,500,25.28,0,205.0,4.2,8.7,No,11,East,5182.4
+GreenLeaf Mixed Fruit,Mixed Fruit,1000,60.53,0,229.0,3.9,8.9,No,8,West,13861.37
+GreenLeaf Berry,Berry,500,32.42,5,122.0,4.3,9.4,No,6,South,
+GreenLeaf Mixed Fruit,Mixed Fruit,200,18.47,10,186.0,3.8,10.5,Yes,12,North,3091.88
+PureSip Pineapple,Pineapple,500,26.1,5,206.0,3.6,12.9,No,11,South,5107.77
+PureSip Pineapple,Pineapple,500,25.57,10,185.0,,11.1,No,2,East,4257.41
+DailyGlow Mixed Fruit,Mixed Fruit,500,23.83,15,,4.1,10.6,No,5,North,6562.78
+TropiCo Orange,Orange,1000,55.11,0,246.0,4.5,6.9,Yes,1,West,13557.06
+TropiCo Pineapple,Pineapple,500,24.25,0,145.0,4.0,10.6,No,12,West,3516.25
+PureSip Apple,Apple,200,13.4,20,287.0,3.7,7.3,Yes,7,South,3076.64
+TropiCo Grape,Grape,500,24.47,0,148.0,3.6,15.1,No,4,East,3621.56
+GreenLeaf Mixed Fruit,Mixed Fruit,500,25.97,0,205.0,3.5,9.4,No,6,North,5323.85
+PureSip Berry,Berry,200,10.92,10,175.0,,10.4,No,2,West,1719.9
+DailyGlow Mango,Mango,1000,43.65,5,219.0,4.3,11.8,No,3,South,9081.38
+DailyGlow Mango,Mango,500,30.37,0,211.0,4.8,11.7,Yes,10,North,6408.07
+TropiCo Apple,Apple,1000,49.39,10,308.0,3.9,9.4,No,7,West,13690.91
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,33.96,15,249.0,3.8,9.0,Yes,8,West,7187.63
+DailyGlow Grape,Grape,1000,40.82,20,224.0,3.2,14.8,No,10,West,7314.94
+DailyGlow Orange,Orange,250,11.41,5,328.0,4.2,8.7,No,12,West,
+PureSip Mixed Fruit,Mixed Fruit,250,13.88,0,281.0,3.6,10.8,No,7,North,3900.28
+PureSip Grape,Grape,500,25.55,20,225.0,3.0,13.2,No,6,West,4599.0
+PureSip Mango,Mango,1000,51.51,0,235.0,4.1,12.4,No,9,South,12104.85
+GreenLeaf Apple,Apple,500,31.47,0,277.0,4.3,9.0,No,9,South,8717.19
+FreshSqueeze Orange,Orange,250,16.1,10,234.0,4.0,9.1,N,1,North,3390.66
+GreenLeaf Berry,Berry,500,31.31,0,207.0,4.3,9.6,No,5,South,6481.17
+GreenLeaf Apple,Apple,500,33.19,0,254.0,3.9,,No,5,West,8430.26
+FreshSqueeze Apple,Apple,500,37.79,15,195.0,4.3,7.8,Yes,1,South,6263.69
+FreshSqueeze Orange,Orange,250,21.68,5,333.0,4.7,6.2,Yes,6,North,6858.47
+PureSip Apple,Apple,500,25.93,10,275.0,4.1,8.9,No,2,East,6417.68
+PureSip Berry,Berry,200,15.18,20,165.0,3.8,6.9,Yes,11,East,2003.76
+DailyGlow Apple,Apple,200,9.59,0,206.0,4.0,9.3,No,11,North,1975.54
+FreshSqueeze Apple,Apple,1000,52.97,5,233.0,3.8,10.1,No,1,North,11724.91
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.37,5,272.0,4.2,12.9,No,6,East,2421.21
+TropiCo Berry,Berry,1000,42.65,5,212.0,4.3,8.2,No,3,West,8589.71
+TropiCo Apple,Apple,250,12.31,5,238.0,4.7,9.8,No,3,East,2783.29
+TropiCo Mixed Fruit,Mixed Fruit,500,34.58,10,188.0,3.7,10.5,Yes,2,South,5850.94
+TropiCo Apple,Apple,500,25.59,10,334.0,3.7,9.8,No,8,North,7692.35
+DailyGlow Apple,Apple,500,24.42,15,278.0,3.8,8.9,No,10,South,5770.45
+PureSip Mango,Mango,500,24.08,0,216.0,3.9,13.4,No,9,North,5201.28
+GreenLeaf Apple,Apple,500,28.73,15,326.0,3.8,9.6,No,8,East,7961.08
+FreshSqueeze Pineapple,Pineapple,1000,52.08,0,206.0,4.2,10.6,No,10,North,10728.48
+DailyGlow Orange,Orange,250,12.2,5,284.0,3.9,8.1,No,6,East,3291.56
+TropiCo Berry,Berry,250,15.28,5,159.0,4.4,8.6,Yes,2,West,2308.04
+TropiCo Pineapple,Pineapple,500,21.5,0,218.0,4.2,9.9,No,10,South,4687.0
+GreenLeaf Mango,Mango,1000,82.55,5,175.0,4.3,11.3,N,8,South,13723.94
+PureSip Pineapple,Pineapple,500,35.19,5,198.0,4.1,10.2,Yes,5,East,6619.24
+FreshSqueeze Apple,APPLE,500,43.85,5,181.0,3.7,6.4,Yes,6,West,7540.01
+TropiCo Apple,Apple,500,26.45,20,344.0,4.1,10.1,No,7,North,7279.04
+PureSip Mango,Mango,500,35.01,0,231.0,4.6,10.9,Yes,1,North,8087.31
+FreshSqueeze Mango,Mango,500,39.69,5,165.0,5.0,10.5,Yes,1,North,6221.41
+GreenLeaf Mixed Fruit,Mixed Fruit,200,13.21,10,165.0,3.8,10.6,yes,2,East,1961.69
+FreshSqueeze Mango,Mango,200,12.31,5,263.0,4.2,12.9,No,11,South,3075.65
+PureSip Pineapple,Pineapple,250,14.86,20,240.0,3.6,11.8,No,7,East,2853.12
+TropiCo Apple,Apple,200,11.08,10,263.0,4.3,10.6,No,3,West,2622.64
+PureSip Mixed Fruit,Mixed Fruit,1000,54.54,0,157.0,3.3,11.5,No,9,East,8562.78
+TropiCo Orange,Orange,500,25.19,0,273.0,4.0,8.5,No,1,East,6876.87
+DailyGlow Berry,Berry,500,21.05,10,272.0,3.7,8.9,No,8,South,5153.04
+FreshSqueeze Orange,Orange,500,32.6,10,244.0,3.6,8.2,no,3,West,7158.96
+TropiCo Orange,Orange,500,24.73,10,294.0,3.7,9.2,No,1,East,6543.56
+TropiCo Apple,Apple,200,9.36,0,265.0,3.8,9.1,No,6,West,2480.4
+PureSip Mixed Fruit,Mixed Fruit,250,15.29,0,245.0,3.9,10.2,No,7,North,3746.05
+PureSip Orange,Orange,200,10.15,0,311.0,4.5,10.7,No,8,South,3156.65
+PureSip Orange,Orange,500,27.42,10,319.0,4.1,8.7,No,3,South,
+PureSip Apple,Apple,250,13.07,5,247.0,3.5,10.7,No,11,South,3066.88
+FreshSqueeze Orange,Orange,1000,54.18,15,297.0,4.4,6.9,No,12,North,13677.74
+GreenLeaf Grape,Grape,500,34.58,0,219.0,3.4,14.9,No,7,West,7573.02
+GreenLeaf Mango,Mango,1000,232.99999999999997,0,255.0,3.9,11.9,No,8,South,14981.25
+PureSip Pineapple,Pineapple,500,37.97,15,203.0,3.8,8.7,Yes,7,South,6551.72
+DailyGlow Pineapple,PINEAPPLE,250,11.86,15,286.0,4.1,10.6,No,5,South,2883.17
+TropiCo Orange,Orange,250,10.28,0,326.0,4.5,8.3,No,7,South,3351.28
+GreenLeaf Apple, Apple ,250,16.95,0,206.0,4.7,10.5,No,12,North,3491.7
+DailyGlow Berry,Berry,250,11.01,15,222.0,4.0,8.4,No,2,South,2077.59
+TropiCo Mixed Fruit,Mixed Fruit,500,27.02,15,254.0,3.0,12.4,No,8,West,5833.62
+TropiCo Orange,Orange,250,12.73,15,393.0,4.4,9.2,yes,5,North,4252.46
+DailyGlow Apple,Apple,1000,61.02,0,171.0,4.8,6.8,Yes,2,East,10434.42
+GreenLeaf Berry,Berry,500,43.14,0,165.0,3.8,8.0,Yes,6,South,7118.1
+GreenLeaf Grape,Grape,250,16.71,0,123.0,3.6,14.1,No,12,West,2055.33
+GreenLeaf Grape,Grape,250,19.64,0,88.0,3.1,14.9,No,12,North,1728.32
+DailyGlow Grape,Grape,200,12.67,15,127.0,3.6,11.9,Yes,12,East,1367.73
+TropiCo Mixed Fruit,Mixed Fruit,200,10.26,15,217.0,3.6,10.5,No,12,East,1892.46
+FreshSqueeze Apple,Apple,250,16.84,10,295.0,4.1,8.5,No,12,West,4471.02
+DailyGlow Mango,Mango,200,8.96,10,266.0,4.5,13.1,No,9,North,2145.02
+PureSip Orange,Orange,200,10.59,0,276.0,4.7,7.7,No,5,South,2922.84
+TropiCo Mixed Fruit,Mixed Fruit,250,13.02,5,196.0,3.6,9.4,No,4,West,2424.32
+FreshSqueeze Berry,Berry,500,28.25,0,158.0,4.4,8.2,No,10,East,4463.5
+GreenLeaf Grape,Grape,500,,10,126.0,4.1,13.2,Yes,1,West,5473.82
+FreshSqueeze Grape,Grape,250,14.82,5,154.0,4.0,14.2,No,12,East,2168.17
+TropiCo Mixed Fruit,Mixed Fruit,1000,56.61,15,229.0,3.8,10.4,Yes,3,East,11019.14
+GreenLeaf Orange,Orange,250,15.47,5,300.0,4.6,9.1,No,10,East,4408.95
+GreenLeaf Orange,Orange,500,30.49,10,290.0,5.0,8.6,yes,9,West,7957.89
+DailyGlow Berry,Berry,200,9.09,0,227.0,4.2,9.4,No,12,West,2063.43
+GreenLeaf Mango,Mango,200,13.79,20,255.0,4.2,12.3,No,10,South,2813.16
+FreshSqueeze Apple,Apple,200,12.39,5,266.0,3.3,,No,4,West,3130.95
+DailyGlow Mixed Fruit, Mixed Fruit ,200,9.77,0,220.0,4.1,11.7,No,3,East,2149.4
+FreshSqueeze Mango,Mango,250,14.94,15,271.0,4.2,12.0,yes,7,South,3441.43
+FreshSqueeze Orange,Orange,500,28.6,0,254.0,3.9,8.2,N,10,North,7264.4
+GreenLeaf Orange,Orange,200,13.51,10,260.0,4.3,7.6,No,5,South,3161.34
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,41.75,10,180.0,,7.3,Yes,12,South,6763.5
+TropiCo Grape,Grape,1000,46.47,0,213.0,3.2,15.2,No,7,North,9898.11
+FreshSqueeze Orange,Orange,500,30.47,10,294.0,4.7,8.0,No,8,North,8062.36
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.54,0,174.0,3.8,9.8,No,9,South,1659.96
+FreshSqueeze Apple,Apple,200,13.26,5,184.0,3.6,8.8,No,9,North,2317.85
+DailyGlow Orange,Orange,500,23.68,5,,4.5,8.8,No,7,North,7806.11
+PureSip Grape,Grape,200,10.53,20,283.0,3.5,15.0,N,11,East,2383.99
+PureSip Mango,Mango,200,11.31,5,272.0,3.9,12.0,No,7,West,2922.5
+GreenLeaf Orange,Orange,250,17.63,0,173.0,,,No,2,West,3049.99
+FreshSqueeze Mixed Fruit,Mixed Fruit,1000,50.66,15,246.0,3.7,9.8,No,8,South,10593.01
+PureSip Orange,Orange,500,36.48,10,295.0,4.7,6.6,Yes,9,South,9685.44
+TropiCo Apple,Apple,1000,43.66,5,244.0,3.7,8.9,No,11,North,10120.39
+DailyGlow Mango,Mango,1000,41.26,0,322.0,4.1,13.7,No,5,West,13285.72
+TropiCo Mango,Mango,1000,46.41,5,217.0,4.1,,No,3,North,9567.42
+DailyGlow Orange, Orange ,200,9.49,0,274.0,4.1,7.2,No,4,East,2600.26
+PureSip Apple,APPLE,500,26.4,5,288.0,3.5,10.2,No,6,North,7223.04
+FreshSqueeze Orange,Orange,500,29.72,0,229.0,3.9,7.5,No,9,North,6805.88
+TropiCo Orange,Orange,1000,41.29,0,295.0,4.0,8.5,Y,7,North,12180.55
+DailyGlow Berry,Berry,200,9.41,10,276.0,4.3,7.5,No,7,East,2337.44
+FreshSqueeze Berry,Berry,250,15.34,20,171.0,4.1,8.0,No,11,East,2098.51
+TropiCo Mango,Mango,200,10.12,10,281.0,4.0,13.9,No,3,South,2559.35
+PureSip Berry,Berry,500,26.1,5,239.0,5.0,10.3,No,11,South,5926.0
+DailyGlow Orange,Orange,200,12.22,0,258.0,4.4,6.8,Yes,2,North,3152.76
+PureSip Grape,Grape,1000,50.13,20,283.0,,15.6,No,8,South,11349.43
+DailyGlow Orange,Orange,500,22.56,0,330.0,4.1,6.6,yes,6,South,7444.8
+FreshSqueeze Berry,Berry,1000,55.88,0,196.0,4.5,7.3,No,3,West,10952.48
+PureSip Mango,Mango,500,35.95,0,207.0,4.3,11.3,Yes,10,West,7441.65
+TropiCo Berry,Berry,500,36.19,0,135.0,4.8,6.8,Yes,12,South,4885.65
+GreenLeaf Apple,Apple,500,30.73,20,314.0,4.2,9.0,No,8,East,7719.38
+TropiCo Mixed Fruit,Mixed Fruit,1000,47.72,0,276.0,4.4,9.8,No,9,South,13170.72
+DailyGlow Mixed Fruit,Mixed Fruit,1000,59.54,10,161.0,4.5,7.3,Yes,9,North,8627.35
+FreshSqueeze Apple,apple,250,16.34,5,244.0,3.7,9.1,No,11,North,3787.61
+GreenLeaf Mango,Mango,200,13.63,15,258.0,4.5,12.3,No,9,West,2989.06
+TropiCo Berry,Berry,500,23.94,15,238.0,4.0,9.8,No,10,South,4843.06
+PureSip Mango,Mango,500,27.84,10,205.0,4.2,13.6,No,6,South,5136.48
+GreenLeaf Orange,Orange,1000,57.99,0,227.0,3.7,8.3,No,11,North,13163.73
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,31.32,5,189.0,3.8,10.4,No,8,West,5623.51
+DailyGlow Orange,Orange,500,31.05,10,228.0,4.5,7.9,Yes,2,South,6371.46
+TropiCo Orange,Orange,500,35.64,0,226.0,4.5,6.2,Yes,10,North,8054.64
+GreenLeaf Orange,Orange,500,34.03,20,336.0,4.0,9.0,No,8,North,9147.26
+TropiCo Mixed Fruit,Mixed Fruit,200,10.05,5,211.0,3.8,10.3,No,2,East,2014.52
+PureSip Mango,Mango,1000,58.25,10,304.0,4.2,13.2,No,4,West,15937.2
+FreshSqueeze Orange,Orange,250,15.4,0,240.0,3.6,8.8,No,5,South,3696.0
+DailyGlow Berry,Berry,250,11.85,10,164.0,4.2,8.2,No,4,West,1749.06
+GreenLeaf Grape,Grape,200,12.69,10,223.0,3.5,14.8,No,12,West,2546.88
+DailyGlow Orange,Orange,500,24.31,0,266.0,3.7,10.1,No,3,South,6466.46
+DailyGlow Pineapple,PINEAPPLE,250,15.37,5,170.0,4.1,10.7,Yes,5,South,
+GreenLeaf Pineapple,Pineapple,200,18.38,15,141.0,3.9,8.8,Yes,10,North,2202.84
+TropiCo Berry,Berry,1000,56.32,0,133.0,3.9,9.3,Yes,8,South,7490.56
+DailyGlow Orange,Orange,250,12.54,0,247.0,4.5,10.0,No,2,South,3097.38
+PureSip Mango,Mango,1000,73.27,20,270.0,4.2,12.2,Yes,8,South,15826.32
+PureSip Mango,Mango,200,10.71,10,342.0,4.3,12.2,No,5,North,3296.54
+GreenLeaf Berry,Berry,250,16.91,0,205.0,,8.4,No,12,West,3466.55
+GreenLeaf Pineapple,Pineapple,200,13.45,5,200.0,4.4,10.4,No,9,West,2555.5
+PureSip Apple,Apple,250,14.21,0,299.0,4.3,9.7,No,6,South,4248.79
+TropiCo Grape,Grape,500,24.66,0,198.0,3.6,,No,9,North,4882.68
+DailyGlow Orange,Orange,250,12.49,20,323.0,4.4,8.8,No,4,West,3227.42
+GreenLeaf Grape,Grape,500,33.36,10,190.0,,16.6,No,11,South,
+TropiCo Apple,Apple,250,16.04,10,204.0,4.4,8.2,Yes,1,West,2944.94
+FreshSqueeze Pineapple,Pineapple,500,30.06,5,140.0,3.9,10.4,No,11,South,3997.98
+DailyGlow Berry,Berry,500,22.64,15,269.0,4.0,11.5,No,2,North,5176.64
+FreshSqueeze Mixed Fruit,Mixed Fruit,250,20.7,10,277.0,4.3,9.7,Yes,6,West,5160.51
+GreenLeaf Mixed Fruit,Mixed Fruit,250,16.38,0,222.0,3.8,11.1,No,10,North,3636.36
+GreenLeaf Berry,Berry,250,17.99,10,133.0,3.7,8.5,No,2,South,2153.4
+TropiCo Mixed Fruit,Mixed Fruit,200,9.64,10,341.0,4.2,11.9,No,8,East,2958.52
+FreshSqueeze Grape,GRAPE,500,27.9,5,229.0,3.8,14.2,No,8,South,6069.64
+TropiCo Berry,Berry,1000,47.63,0,212.0,4.5,,No,11,South,10097.56
+PureSip Grape,Grape,1000,47.24,5,233.0,3.9,12.9,No,7,South,10456.57
+DailyGlow Mixed Fruit,Mixed Fruit,1000,54.1,20,,4.7,9.4,Yes,5,South,13892.88
+GreenLeaf Mixed Fruit,Mixed Fruit,1000,55.96,0,220.0,3.8,9.1,No,9,North,12311.2
+DailyGlow Mixed Fruit,Mixed Fruit,250,10.7,0,209.0,3.7,9.1,No,2,North,2236.3
+GreenLeaf Grape,Grape,250,15.76,5,157.0,4.1,12.6,N,3,North,2350.6
+PureSip Apple,Apple,250,12.97,15,294.0,3.9,9.4,No,9,South,3241.2
+PureSip Berry,Berry,200,11.43,0,212.0,4.2,10.4,No,3,South,2423.16
+TropiCo Mixed Fruit,Mixed Fruit,1000,46.39,20,253.0,,10.9,No,4,South,9389.34
+PureSip Grape,Grape,200,10.98,0,208.0,3.1,,No,8,North,2283.84
+DailyGlow Grape,Grape,1000,57.05,20,228.0,,13.9,Yes,12,East,10405.92
+GreenLeaf Pineapple,Pineapple,250,17.0,20,183.0,3.9,12.5,No,3,East,2488.8
+TropiCo Grape,Grape,250,12.89,0,-20.0,3.5,14.2,No,4,South,2461.99
+TropiCo Apple,Apple,500,24.43,5,283.0,4.1,9.3,No,1,East,6568.01
+GreenLeaf Mixed Fruit,Mixed Fruit,200,17.68,10,74.0,4.3,9.8,Yes,9,East,1177.49
+DailyGlow Mixed Fruit,Mixed Fruit,500,23.13,15,306.0,3.7,9.2,No,5,North,6016.11
+PureSip Apple,Apple,200,10.38,0,218.0,3.9,8.1,No,10,South,2262.84
+TropiCo Orange,Orange,500,24.69,20,181.0,4.4,9.1,yes,3,East,3575.11
+TropiCo Orange,Orange,200,9.41,0,306.0,4.1,8.8,No,7,East,2879.46
+DailyGlow Mango,Mango,200,12.47,0,213.0,4.4,11.4,Yes,1,West,2656.11
+TropiCo Berry,Berry,250,12.45,0,285.0,4.6,8.3,No,8,West,3548.25
+DailyGlow Grape,Grape,250,11.79,0,174.0,4.2,14.7,No,7,East,2051.46
+GreenLeaf Orange,Orange,200,17.22,10,284.0,4.5,8.1,Yes,8,West,
+DailyGlow Berry,Berry,500,22.59,20,248.0,3.8,10.0,No,4,West,4481.86
+TropiCo Orange,Orange,250,11.96,0,398.0,4.8,8.4,No,8,South,4760.08
+PureSip Mixed Fruit,Mixed Fruit,200,11.05,0,228.0,3.5,9.3,No,6,South,2519.4
+PureSip Pineapple,Pineapple,200,,0,169.0,3.5,11.3,No,7,East,1899.56
+GreenLeaf Mixed Fruit,Mixed Fruit,1000,79.62,10,188.0,4.1,,Yes,4,East,13471.7
+GreenLeaf Grape,Grape,1000,65.36,5,198.0,4.2,13.3,No,2,East,12294.22
+TropiCo Mango,Mango,500,33.96,10,191.0,4.2,12.1,Yes,12,East,5837.72
+TropiCo Mixed Fruit,Mixed Fruit,500,32.61,0,220.0,4.2,8.5,Yes,12,South,7174.2
+GreenLeaf Mixed Fruit,Mixed Fruit,1000,81.77,15,291.0,4.5,9.2,Yes,5,North,20225.81
+PureSip Mixed Fruit,Mixed Fruit,250,17.35,5,175.0,4.2,9.0,Yes,10,East,2884.44
+TropiCo Orange,Orange,200,10.22,10,349.0,4.3,9.3,No,5,East,3210.1
+TropiCo Mango,Mango,1000,42.89,15,372.0,4.6,14.9,No,6,South,13561.82
+GreenLeaf Pineapple,Pineapple,250,17.79,0,205.0,3.8,12.4,No,5,West,3646.95
+TropiCo Grape,Grape,500,22.33,15,247.0,2.8,,No,8,East,4688.18
+TropiCo Orange,Orange,200,10.59,15,335.0,4.3,8.8,No,7,North,3015.5
+FreshSqueeze Orange,Orange,200,12.1,0,286.0,4.6,8.5,No,7,East,3460.6
+FreshSqueeze Orange, Orange ,1000,56.26,15,280.0,4.5,9.1,No,10,North,13389.88
+DailyGlow Grape,Grape,200,7.61,5,142.0,3.1,18.0,No,4,East,1026.59
+DailyGlow Grape,Grape,200,13.96,10,229.0,3.9,11.6,Yes,7,North,2877.16
+PureSip Pineapple,Pineapple,250,13.52,5,205.0,4.0,10.8,No,4,South,2633.02
+PureSip Mixed Fruit,Mixed Fruit,1000,52.89,15,311.0,3.9,11.1,No,5,West,13981.47
+DailyGlow Orange,Orange,1000,,15,379.0,3.8,7.0,No,8,West,12811.91
+DailyGlow Apple,Apple,250,14.63,0,217.0,3.8,7.4,Yes,4,West,3174.71
+GreenLeaf Orange,Orange,200,18.73,0,199.0,4.5,8.3,Yes,8,West,3727.27
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,29.4,0,231.0,3.2,11.2,No,5,North,6791.4
+GreenLeaf Orange,Orange,250,15.41,15,322.0,4.2,8.4,No,3,East,4217.72
+FreshSqueeze Berry,Berry,250,22.3,0,119.0,4.0,8.2,Yes,3,West,2653.7
+GreenLeaf Grape,Grape,250,15.8,10,236.0,3.8,12.7,No,6,West,3355.92
+PureSip Mango,Mango,250,12.61,5,223.0,4.3,12.7,No,2,North,2671.43
+FreshSqueeze Mixed Fruit,Mixed Fruit,500,28.54,0,187.0,3.7,12.0,No,4,North,5336.98
+PureSip Berry,Berry,250,13.53,0,242.0,4.5,8.7,No,7,North,3274.26
+DailyGlow Apple,Apple,500,21.61,5,236.0,3.6,8.7,No,4,South,4844.96
+TropiCo Mango,MANGO,1000,44.13,0,267.0,4.7,13.2,No,10,South,11782.71
+FreshSqueeze Orange,Orange,200,12.71,15,246.0,4.4,,No,9,West,2657.66
+DailyGlow Mango,Mango,200,9.41,10,250.0,3.7,13.5,Y,10,North,2117.25
+FreshSqueeze Pineapple,Pineapple,500,40.63,0,133.0,4.5,10.3,Yes,7,South,5403.79
+GreenLeaf Orange,Orange,500,30.84,5,289.0,4.6,9.3,No,3,North,8467.12
+FreshSqueeze Mixed Fruit,Mixed Fruit,200,11.83,5,197.0,4.3,11.7,No,3,North,2213.98
+FreshSqueeze Pineapple,Pineapple,250,15.45,15,202.0,,12.3,No,11,South,2652.76
+FreshSqueeze Mango,Mango,500,27.68,20,242.0,4.0,13.3,No,7,North,5358.85
+PureSip Orange,Orange,500,35.19,0,193.0,4.0,6.6,Yes,5,North,6791.67
+PureSip Orange,Orange,500,26.08,20,307.0,4.2,8.5,No,8,South,6405.25
+FreshSqueeze Mixed Fruit,Mixed Fruit,200,12.62,20,225.0,3.4,10.3,No,1,East,2271.6
+FreshSqueeze Orange,Orange,200,12.25,0,267.0,4.3,7.5,No,8,South,3270.75
+DailyGlow Pineapple,Pineapple,1000,44.94,0,162.0,3.7,10.4,No,1,West,7280.28
+FreshSqueeze Apple,Apple,250,16.52,15,238.0,3.9,11.9,No,12,South,3342.0
+TropiCo Orange,Orange,200,10.23,5,235.0,4.5,7.2,No,1,East,2283.85
+DailyGlow Orange,Orange,500,29.17,20,228.0,3.9,6.9,Yes,2,East,5320.61
+DailyGlow Mango,Mango,250,10.96,15,385.0,,12.5,No,5,East,3586.66
+DailyGlow Mango,Mango,250,11.21,0,234.0,,13.7,No,1,North,2623.14
+FreshSqueeze Grape,Grape,500,43.42,5,138.0,3.6,11.1,Yes,8,South,5692.36
+DailyGlow Orange,Orange,250,11.15,0,288.0,4.1,8.7,No,6,West,3211.2
+DailyGlow Mango,Mango,1000,41.26,5,307.0,3.6,14.3,No,5,South,12033.48
+TropiCo Apple,Apple,250,12.41,20,339.0,3.8,8.9,No,6,West,3365.59
+PureSip Grape,Grape,500,25.55,20,225.0,3.0,13.2,No,6,West,4599.0
+DailyGlow Apple,Apple,1000,42.75,0,265.0,4.3,9.8,No,10,South,11328.75
+GreenLeaf Pineapple,Pineapple,500,29.57,10,264.0,3.7,11.8,No,7,South,7025.83
+DailyGlow Grape,Grape,500,23.75,15,206.0,3.4,15.4,No,2,North,4158.62
+DailyGlow Orange,Orange,500,32.98,0,285.0,5.0,8.1,Yes,5,North,9399.3
+PureSip Orange,Orange,200,10.29,0,282.0,4.1,8.3,No,12,South,2901.78
+PureSip Orange,Orange,200,15.19,10,330.0,4.5,7.6,Yes,5,West,4511.43
+FreshSqueeze Apple,Apple,500,43.5,10,235.0,5.0,8.4,Yes,7,South,9200.25
+FreshSqueeze Berry,Berry,200,11.7,5,267.0,4.3,9.0,No,7,South,2967.7
+GreenLeaf Berry,Berry,1000,71.74,0,215.0,4.2,9.1,No,6,West,15424.1
+DailyGlow Apple,Apple,500,23.87,0,229.0,3.9,9.4,No,3,West,5466.23
+FreshSqueeze Apple,Apple,1000,50.77,10,330.0,4.2,8.7,No,5,North,15078.69
+TropiCo Orange,Orange,1000,42.58,10,294.0,4.5,7.9,yes,11,East,11266.67
+TropiCo Orange,Orange,250,15.91,10,236.0,4.6,6.7,Yes,3,North,3379.28
+TropiCo Pineapple,Pineapple,250,17.34,0,175.0,4.5,10.1,Yes,8,West,3034.5
+GreenLeaf Pineapple,Pineapple,500,31.25,5,178.0,3.9,11.3,No,3,West,5284.38
+DailyGlow Grape,Grape,500,25.72,15,237.0,3.4,14.6,No,12,South,5181.29
+FreshSqueeze Mango,Mango,500,25.54,10,297.0,4.4,14.5,No,4,West,6826.84
+GreenLeaf Orange,Orange,1000,62.2,0,278.0,4.2,8.8,No,1,North,17291.6
+PureSip Pineapple,Pineapple,1000,49.15,0,234.0,4.0,10.1,No,2,South,11501.1
+GreenLeaf Apple,Apple,200,12.83,5,204.0,3.6,10.4,No,1,North,2486.45
+PureSip Mango,Mango,250,15.03,0,319.0,3.6,12.7,No,7,North,4794.57
+TropiCo Pineapple,Pineapple,500,19.96,10,211.0,3.4,10.5,No,12,West,3790.4
+TropiCo Pineapple,Pineapple,500,34.57,0,193.0,4.8,9.3,Yes,11,East,6672.01
+FreshSqueeze Apple,Apple,250,18.19,0,247.0,4.7,7.8,Yes,5,South,4492.93
+GreenLeaf Grape,Grape,250,15.81,10,216.0,4.2,15.1,No,2,South,3073.46
+FreshSqueeze Berry,Berry,500,31.9,15,222.0,4.3,10.3,No,7,North,6019.53
+PureSip Apple,Apple,500,26.37,0,281.0,4.3,9.6,No,5,West,7409.97
+DailyGlow Mixed Fruit,Mixed Fruit,200,9.95,0,191.0,3.6,9.8,No,3,North,1900.45
+TropiCo Mixed Fruit,Mixed Fruit,200,13.18,5,326.0,4.2,7.7,Yes,8,South,4081.85
+TropiCo Orange,Orange,1000,64.29,0,258.0,4.4,6.2,Yes,2,West,16586.82
+TropiCo Mango,Mango,250,11.06,0,224.0,4.3,11.2,No,3,South,2477.44
+FreshSqueeze Berry,Berry,500,28.87,0,163.0,4.0,9.2,No,10,East,4705.81
+PureSip Berry,Berry,250,18.34,5,208.0,4.7,,Yes,12,West,3623.98
+TropiCo Berry,Berry,200,14.08,10,163.0,4.2,7.9,Yes,5,North,2065.54
+FreshSqueeze Orange,Orange,200,12.07,5,256.0,4.2,10.6,No,8,West,2935.42
+PureSip Mango,Mango,250,12.85,20,263.0,4.3,12.3,No,11,North,2703.64
+PureSip Pineapple,Pineapple,500,27.12,20,268.0,3.9,10.6,No,3,North,5814.53
+DailyGlow Orange,Orange,200,8.33,10,380.0,4.6,8.9,No,8,East,2848.86
+FreshSqueeze Mixed Fruit,Mixed Fruit,200,11.27,0,152.0,3.7,9.6,No,11,East,1713.04
+TropiCo Grape,Grape,250,12.27,10,118.0,3.3,14.9,No,2,North,1303.07
+GreenLeaf Berry,Berry,500,34.74,10,226.0,4.5,10.4,No,9,West,7066.12
+FreshSqueeze Berry,Berry,500,39.75,0,118.0,4.2,8.9,Yes,4,South,
+TropiCo Orange,Orange,250,12.86,10,282.0,3.9,8.8,No,12,East,3263.87
+TropiCo Grape,Grape,1000,45.39,0,181.0,3.6,14.9,No,12,East,8215.59
+TropiCo Pineapple,Pineapple,200,9.25,10,183.0,4.1,11.7,No,3,East,1523.48
+PureSip Orange,Orange,1000,65.76,10,244.0,4.6,7.6,Yes,4,South,14440.9
+FreshSqueeze Pineapple,PINEAPPLE,1000,55.4,0,196.0,3.8,10.7,No,10,South,10858.4
+PureSip Mango,Mango,250,12.61,5,223.0,4.3,12.7,No,2,North,2671.43
+GreenLeaf Pineapple,Pineapple,1000,62.12,0,187.0,3.6,10.2,No,3,West,
+TropiCo Mango,Mango,500,32.7,10,213.0,4.3,10.0,Yes,1,West,6268.59
+DailyGlow Apple,Apple,250,14.63,0,217.0,3.8,7.4,Yes,4,West,3174.71
+TropiCo Grape,Grape,1000,65.56,5,84.0,4.0,13.1,Yes,1,North,5231.69
+DailyGlow Pineapple,Pineapple,1000,55.53,5,164.0,4.6,10.9,Yes,10,East,8651.57
+GreenLeaf Mango,Mango,500,32.03,0,228.0,4.6,13.6,No,12,North,7302.84
+TropiCo Grape,Grape,1000,41.02,5,,3.4,12.6,No,7,North,9079.78
+GreenLeaf Berry,Berry,500,31.38,10,135.0,4.5,8.5,No,3,East,3812.67
+TropiCo Berry,Berry,1000,42.84,0,264.0,,10.1,No,6,West,11309.76
+GreenLeaf Pineapple,Pineapple,500,30.9,15,213.0,,11.4,No,4,West,5594.44
+TropiCo Apple,Apple,200,14.79,0,168.0,3.9,8.9,Yes,10,North,2484.72
+PureSip Berry,Berry,1000,48.45,0,188.0,3.7,9.2,No,4,East,9108.6
+FreshSqueeze Grape,Grape,200,11.82,5,139.0,3.6,15.4,No,2,East,1560.83
+FreshSqueeze Orange,Orange,500,28.73,15,242.0,3.7,9.5,No,3,East,5909.76
+TropiCo Mango,Mango,1000,46.04,10,366.0,4.3,11.4,No,6,West,15165.58
+DailyGlow Apple,Apple,500,23.48,15,260.0,3.8,8.5,No,2,South,5189.08
+GreenLeaf Pineapple,Pineapple,1000,58.28,0,176.0,4.0,12.1,No,3,South,10257.28
+DailyGlow Orange,Orange,200,9.11,10,313.0,4.4,9.0,No,4,East,2566.29
+FreshSqueeze Mango,Mango,500,39.29,0,148.0,4.1,12.0,Yes,3,East,
+FreshSqueeze Berry,Berry,500,28.15,0,243.0,3.9,8.7,No,10,West,6840.45
+GreenLeaf Mixed Fruit,Mixed Fruit,250,14.93,15,174.0,3.7,10.7,yes,3,East,2208.15
+GreenLeaf Pineapple,Pineapple,1000,95.41,0,133.0,4.4,9.4,Yes,12,East,12689.53
+DailyGlow Pineapple,Pineapple,1000,43.85,20,265.0,3.8,11.1,No,9,South,9296.2
+GreenLeaf Apple,Apple,500,32.97,10,227.0,,,yes,2,South,6735.77
+TropiCo Berry,berry,200,13.01,10,195.0,4.1,9.5,Yes,3,West,2283.26
+FreshSqueeze Apple,Apple,500,40.83,0,207.0,4.8,7.7,Yes,3,East,8451.81
+PureSip Orange,Orange,1000,71.59,5,195.0,3.9,7.8,Yes,12,East,13262.05
+GreenLeaf Orange,Orange,500,33.12,5,,3.7,8.3,No,10,North,7110.86
+DailyGlow Pineapple,Pineapple,1000,42.71,5,244.0,3.7,11.3,No,3,West,9900.18
+DailyGlow Apple,Apple,1000,60.01,20,286.0,,6.6,Yes,6,West,13730.29
+TropiCo Mango,Mango,250,12.22,0,294.0,4.2,13.6,No,5,West,3592.68
+FreshSqueeze Orange,Orange,500,27.52,0,329.0,4.9,9.3,No,5,South,9054.08
+DailyGlow Orange,Orange,200,9.13,10,343.0,4.7,9.5,No,6,North,2818.43
+FreshSqueeze Apple,Apple,200,13.2,10,190.0,4.2,9.8,No,12,South,2257.2
+GreenLeaf Berry,Berry,1000,89.18,0,76.0,4.2,8.9,Yes,1,South,6777.68
+TropiCo Orange,Orange,1000,63.35,0,228.0,4.2,8.2,Yes,4,South,14443.8
+GreenLeaf Mixed Fruit,Mixed Fruit,250,14.88,0,176.0,3.9,10.2,No,9,South,2618.88
+GreenLeaf Pineapple,Pineapple,200,12.76,0,171.0,3.4,13.1,No,9,North,2181.96
+GreenLeaf Orange,Orange,1000,64.44,10,315.0,4.9,8.1,No,12,East,18268.74
+GreenLeaf Orange,Orange,1000,,0,252.0,4.3,7.6,No,1,North,15969.24
+TropiCo Mango,Mango,500,24.11,5,285.0,4.8,12.7,No,9,East,6527.78
+PureSip Berry,Berry,250,13.72,5,170.0,0.0,8.6,No,4,North,2215.78
+DailyGlow Berry,Berry,200,,10,126.0,3.2,7.1,No,3,West,1068.23
+DailyGlow Berry,Berry,250,14.99,0,107.0,4.1,7.9,Yes,2,South,1603.93
+PureSip Orange,Orange,250,12.01,0,279.0,3.7,9.2,No,7,North,3350.79
+TropiCo Orange,Orange,1000,59.74,15,284.0,4.8,8.2,Yes,12,East,14421.24
+GreenLeaf Mango,mango,250,22.58,15,224.0,4.9,11.4,Yes,7,East,
+FreshSqueeze Pineapple,Pineapple,250,15.78,5,212.0,3.2,,No,6,South,3178.09
+PureSip Orange,Orange,500,28.48,15,313.0,4.6,7.7,No,10,West,7577.1
+GreenLeaf Apple,Apple,1000,62.75,10,310.0,4.5,9.1,No,5,North,17507.25
+PureSip Mango,Mango,1000,51.69,0,243.0,3.8,11.4,No,12,North,12560.67
+TropiCo Grape,Grape,200,10.13,10,207.0,3.1,14.4,No,10,East,1887.22
+GreenLeaf Pineapple,Pineapple,250,15.02,0,163.0,3.5,12.8,No,3,East,2448.26
+TropiCo Mango,Mango,500,20.5,10,251.0,4.2,11.6,No,12,West,4630.95
+FreshSqueeze Grape,Grape,250,14.64,0,148.0,3.3,14.4,No,9,South,2166.72
+TropiCo Mango,Mango,250,17.7,5,216.0,4.7,11.3,Yes,11,North,3632.04
+FreshSqueeze Grape,Grape,250,15.55,0,210.0,3.6,14.4,yes,6,West,3265.5
+GreenLeaf Pineapple,Pineapple,250,20.83,10,131.0,3.5,9.0,Yes,1,South,2455.86
+PureSip Grape,Grape,500,29.7,15,193.0,3.3,14.5,No,2,West,4872.28
+GreenLeaf Mixed Fruit,Mixed Fruit,200,14.43,0,166.0,3.5,11.3,No,12,South,2395.38
+PureSip Grape,Grape,500,23.31,10,286.0,4.1,13.0,No,6,West,5999.99
+PureSip Orange,Orange,1000,62.8,0,321.0,4.9,6.8,Yes,6,East,20158.8
+TropiCo Pineapple,Pineapple,200,10.71,20,258.0,4.3,12.3,No,2,South,2210.54
+TropiCo Pineapple,Pineapple,200,9.36,0,275.0,4.1,10.5,no,6,North,2574.0
+GreenLeaf Pineapple,Pineapple,1000,80.66,0,127.0,3.4,11.0,Yes,11,East,10243.82
+TropiCo Pineapple,Pineapple,200,10.62,5,264.0,4.4,10.7,No,2,East,2663.5
+FreshSqueeze Grape,Grape,500,30.74,15,247.0,4.1,15.5,No,6,South,6453.86
+DailyGlow Apple,Apple,1000,45.6,0,241.0,4.1,9.7,No,11,South,10989.6
+GreenLeaf Berry,Berry,250,,10,184.0,4.0,8.3,No,5,North,2573.42
+DailyGlow Pineapple,Pineapple,250,11.8,0,189.0,4.1,11.7,No,4,South,2230.2
+FreshSqueeze Grape,Grape,500,28.95,0,178.0,3.7,14.9,No,5,East,5153.1
+FreshSqueeze Orange,Orange,1000,55.73,15,367.0,4.6,6.9,No,5,North,17384.97
+DailyGlow Orange,Orange,500,23.21,0,294.0,4.6,8.8,yes,11,East,6823.74
+TropiCo Orange,Orange,500,36.0,5,228.0,,8.1,Yes,10,East,7797.6
+GreenLeaf Orange,Orange,1000,63.6,0,318.0,4.1,7.5,No,6,South,
+PureSip Pineapple,Pineapple,250,12.45,10,166.0,3.7,9.6,No,1,South,1860.03
+TropiCo Orange,Orange,1000,58.53,15,332.0,3.9,8.2,Yes,7,South,16517.17
+TropiCo Mango,Mango,500,24.6,0,207.0,4.1,13.4,No,2,East,5092.2
+DailyGlow Berry,Berry,1000,54.77,0,206.0,4.6,,Yes,9,South,11282.62
+TropiCo Berry,Berry,1000,47.0,0,155.0,4.1,8.4,No,12,East,7285.0
+DailyGlow Berry,Berry,500,23.36,10,204.0,3.7,8.2,No,6,West,4288.9
+DailyGlow Orange,Orange,1000,42.06,15,280.0,3.7,8.4,No,11,North,10010.28
+DailyGlow Orange,Orange,200,11.43,10,257.0,4.3,8.7,Yes,1,South,2643.76
+DailyGlow Pineapple,Pineapple,250,12.91,5,154.0,3.7,10.8,No,11,North,1888.73
+PureSip Apple,Apple,500,25.87,0,235.0,3.6,8.7,No,4,South,6079.45
+GreenLeaf Mango,Mango,500,31.67,0,208.0,4.1,13.4,No,4,West,6587.36
+DailyGlow Berry,Berry,500,23.49,0,149.0,4.0,11.0,Y,2,North,3500.01
+FreshSqueeze Mango,Mango,500,39.79,0,194.0,,11.2,Yes,12,South,7719.26
+TropiCo Orange,Orange,500,33.54,0,254.0,4.7,7.3,Yes,7,East,8519.16
+GreenLeaf Orange,Orange,500,32.74,15,345.0,4.2,8.8,No,2,South,9601.01
+TropiCo Berry,Berry,250,13.46,0,221.0,3.9,8.7,yes,4,West,2974.66
+PureSip Pineapple,Pineapple,500,28.09,10,296.0,4.2,11.4,No,7,West,7483.18
+PureSip Grape,Grape,200,10.06,20,239.0,4.3,14.9,No,2,South,1923.47
+PureSip Apple,Apple,500,26.16,10,309.0,4.1,6.9,No,8,North,7275.1
+DailyGlow Pineapple,Pineapple,1000,53.78,5,221.0,4.5,10.8,Yes,6,North,11291.11
+PureSip Mixed Fruit,Mixed Fruit,250,13.08,10,250.0,3.6,10.8,No,8,South,2943.0
+DailyGlow Apple,Apple,200,9.26,0,222.0,45.0,11.2,No,10,North,2055.72
+DailyGlow Orange,Orange,200,8.81,15,327.0,4.5,7.4,No,2,South,2448.74
+PureSip Orange,Orange,200,10.97,5,264.0,4.4,8.2,No,10,South,2751.28
+TropiCo Apple,Apple,500,,0,224.0,4.0,11.2,No,10,North,5824.0
+PureSip Berry,Berry,250,13.71,0,180.0,3.9,11.6,No,9,East,2467.8
+GreenLeaf Mango,Mango,1000,58.75,5,235.0,4.3,13.3,Y,12,East,13115.94
+PureSip Grape,Grape,500,28.93,0,178.0,3.8,15.2,No,9,East,5149.54
+FreshSqueeze Apple,Apple,200,,15,275.0,3.7,9.9,No,3,East,2650.72
+DailyGlow Berry,Berry,200,8.93,5,167.0,3.4,7.6,No,12,West,1416.74
+GreenLeaf Apple,Apple,500,32.37,20,241.0,3.6,7.5,No,10,South,6240.94
+DailyGlow Grape,Grape,500,29.58,5,191.0,,14.3,Yes,1,West,5367.29
+PureSip Pineapple,Pineapple,250,21.21,0,169.0,3.9,7.4,Yes,6,South,3584.49
+DailyGlow Pineapple,Pineapple,1000,43.99,10,219.0,3.8,12.9,No,9,South,8670.43
+FreshSqueeze Apple,Apple,200,17.83,5,77.0,,8.1,Yes,10,West,1304.26
+TropiCo Mango,Mango,500,34.32,0,214.0,4.9,12.3,Yes,1,East,7344.48
+GreenLeaf Mango,Mango,250,17.45,0,269.0,4.3,12.0,No,5,West,4694.05
+DailyGlow Mixed Fruit,Mixed Fruit,500,23.29,10,268.0,4.5,9.0,No,2,West,5617.55
+FreshSqueeze Mango,Mango,250,17.24,20,243.0,4.0,14.6,no,9,North,3351.46
+PureSip Grape,Grape,250,13.38,0,,7.0,14.2,No,3,North,1779.54
+TropiCo Mixed Fruit,Mixed Fruit,1000,49.64,5,326.0,3.9,11.0,No,5,South,15373.51
+PureSip Apple,Apple,1000,61.21,0,207.0,4.1,8.6,Yes,3,East,
+PureSip Mango,Mango,1000,64.53,0,223.0,3.9,12.1,Yes,1,South,14390.19
+TropiCo Apple,Apple,500,35.75,15,276.0,5.0,8.5,Yes,10,East,8386.95
+DailyGlow Grape,Grape,500,22.56,0,247.0,4.2,14.2,No,7,South,5572.32
+PureSip Mixed Fruit,Mixed Fruit,250,13.67,10,203.0,3.4,9.7,No,12,West,2497.51
+DailyGlow Grape,Grape,200,12.9,5,183.0,4.0,13.9,Yes,3,West,2242.66
+PureSip Pineapple,Pineapple,500,27.16,5,203.0,4.1,11.6,No,4,East,5237.81
+PureSip Pineapple,Pineapple,1000,69.65,15,199.0,3.9,10.0,Yes,11,South,11781.3
+DailyGlow Mixed Fruit, Mixed Fruit ,250,11.56,5,289.0,4.3,9.9,No,1,East,3173.8
+TropiCo Grape,Grape,1000,47.19,10,141.0,2.9,14.9,No,1,South,5988.41
+FreshSqueeze Orange,Orange,500,30.1,20,262.0,4.0,8.2,No,4,South,6308.96
+TropiCo Apple,Apple,1000,42.65,0,226.0,3.9,9.0,No,2,South,9638.9
+PureSip Pineapple,Pineapple,200,14.01,5,191.0,,9.8,Yes,7,West,2542.11
+FreshSqueeze Grape,Grape,1000,56.57,15,192.0,3.8,13.1,No,12,North,9232.22
+TropiCo Orange,Orange,200,10.24,0,339.0,4.6,7.8,N,8,East,3471.36
+PureSip Pineapple,Pineapple,500,25.23,10,178.0,2.9,11.4,No,4,West,4041.85
+GreenLeaf Apple,Apple,200,16.76,15,189.0,3.9,9.5,Yes,10,West,2692.49
+GreenLeaf Mango,MANGO,250,15.41,15,240.0,4.3,13.5,No,12,South,3143.64
+PureSip Grape,Grape,250,13.64,10,181.0,3.6,14.3,No,2,East,2221.96
+DailyGlow Apple,Apple,1000,40.85,15,248.0,4.5,8.8,No,12,South,8611.18
+PureSip Berry,Berry,500,29.26,0,155.0,4.3,7.8,No,1,West,4535.3
+FreshSqueeze Apple,Apple,500,28.9,0,256.0,4.3,10.9,No,4,East,7398.4
+TropiCo Pineapple,Pineapple,200,9.34,20,237.0,3.8,9.8,No,12,North,1770.86
